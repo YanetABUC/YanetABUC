@@ -203,6 +203,6 @@ Also: ice cream and chocolate help during long product roadmap sessions 🍦🍫
 
 # 📫 Connect with me
 
-• LinkedIn [https://www.linkedin.com/in/yanetmoralesr/]
-• Medium [https://medium.com/@yanetmoralesramirez]
-• Substack [https://yanetmoralesramirez.substack.com/]
+LinkedIn [https://www.linkedin.com/in/yanetmoralesr/]
+Medium [https://medium.com/@yanetmoralesramirez]
+Substack [https://yanetmoralesramirez.substack.com/]
