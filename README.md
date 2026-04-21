@@ -20,7 +20,7 @@ Today I focus on **AI-assisted product development, modern business analysis, an
 
 ---
 
-# 🚀 What I'm currently working on
+# What I'm currently working on
 
 🔹 Product Manager for **Zetta**, a platform designed to centralize employee data, performance insights, and talent management processes.
 
@@ -32,7 +32,7 @@ Today I focus on **AI-assisted product development, modern business analysis, an
 
 ---
 
-# 🤖 AI-Native Product Workflow
+# AI-Native Product Workflow
 
 I work directly from the **codebase**, using AI tools to reduce the traditional gap between product and engineering.
 
@@ -49,7 +49,7 @@ I believe the future of product management is **closer to the codebase and power
 
 ---
 
-# ✍️ Writing on Medium
+# Writing on Medium
 
 I regularly write about **Product Management, AI, Software Development, and Engineering Culture**.
 
@@ -64,7 +64,7 @@ My articles explore topics such as:
 
 ---
 
-# 📚 Featured Writing
+## Featured Writing
 
 Here are some of my most impactful articles:
 
@@ -106,7 +106,7 @@ Here are some of my most impactful articles:
 
 ---
 
-# 🎤 Talks & Workshops
+# Talks & Workshops
 
 I frequently give talks and workshops about **Agile delivery, Product thinking, Engineering collaboration, and AI**.
 
@@ -125,7 +125,7 @@ I enjoy facilitating sessions that combine **practical insights, storytelling, a
 
 ---
 
-# 🧠 My technical background
+# My technical background
 
 Before moving into leadership roles, I spent more than **10 years working as a developer**.
 
@@ -140,9 +140,18 @@ AWS
 
 This background allows me to **connect product strategy with engineering reality**.
 
+## GitHub activity
+
+I maintain multiple GitHub accounts due to work across different organizations.
+
+Main profile  
+https://github.com/YanetABUC
+
+Professional work has also been done in repositories belonging to private company organizations and enterprise clients.
+
 ---
 
-# 🔬 Areas I'm exploring
+# Areas I'm exploring
 
 AI-assisted product management  
 AI agents for product discovery  
@@ -153,7 +162,7 @@ Modern business analysis
 
 ---
 
-# 🛠 Tools I use
+# Tools I use
 
 ### AI & Development
 
@@ -171,7 +180,7 @@ Figma
 
 ---
 
-# 🌎 Industries I've worked with
+# Industries I've worked with
 
 Healthcare  
 Finance  
@@ -183,7 +192,7 @@ Transportation
 
 ---
 
-# 💬 Ask me about
+# Ask me about
 
 AI for Product Managers  
 AI-assisted backlog creation  
@@ -193,7 +202,7 @@ Agile product delivery
 
 ---
 
-# ⚡ Fun fact
+# Fun fact
 
 I enjoy explaining **complex technical concepts using simple stories and everyday analogies**.
 
@@ -201,7 +210,7 @@ Also: ice cream and chocolate help during long product roadmap sessions 🍦🍫
 
 ---
 
-# 📫 Connect with me
+# Connect with me
 
 LinkedIn [https://www.linkedin.com/in/yanetmoralesr/]
 Medium [https://medium.com/@yanetmoralesramirez]
